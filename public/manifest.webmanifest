@@ -1,0 +1,25 @@
+{
+  "name": "Harbour 2 Home",
+  "short_name": "H2H Fish",
+  "description": "Fresh fish on wheels. Join your local Harbour 2 Home Fish Club.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#02131F",
+  "theme_color": "#02131F",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg?v=2",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/apple-touch-icon.svg?v=2",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
